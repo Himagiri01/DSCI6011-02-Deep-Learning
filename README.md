@@ -1,5 +1,6 @@
-##**ARCFACE LOSS FOR DIFFICULT MULTI-CLASS CLASSIFICATION**
-##**DSCI_6011_02-FINAL-PROJECT by Himagiri Bhavani Appisetty and HARSHITHA SAMPATH
+##ARCFACE LOSS FOR DIFFICULT MULTI-CLASS CLASSIFICATION
+
+##DSCI_6011_02-FINAL-PROJECT by Himagiri Bhavani Appisetty and HARSHITHA SAMPATH
 
 ###**Overview:**
 The project focuses on enhancing the accuracy of multi-class classification tasks, particularly in the domain of face recognition, by implementing and optimizing the ArcFace loss function. This cutting-edge approach aims to address the inherent challenges in multi-class classification, offering significant improvements in accuracy and efficiency.
